@@ -1,3 +1,4 @@
 # WaLink
-WhatsApp link generator.
-Create WhatsApp links to WhatsApp contacts
+WhatsApp link generator.<br>
+Create links to WhatsApp contacts.<br>
+[visit website](https://naveen-005.github.io/WaLink/)
