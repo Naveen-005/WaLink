@@ -1,0 +1,2 @@
+# WaLink
+WhatsApp link generator.
